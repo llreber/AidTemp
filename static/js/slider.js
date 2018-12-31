@@ -7,7 +7,7 @@ function functor(v) {
 function sliderFactory(d) {
   let width = 600,
   height = 55,
-  range=[2007,2016],
+  range=[2012,2016],
   step=1,
   ticks=1,
   value=0,
